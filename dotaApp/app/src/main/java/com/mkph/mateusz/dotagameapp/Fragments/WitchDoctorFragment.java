@@ -1,7 +1,6 @@
 package com.mkph.mateusz.dotagameapp.Fragments;
 
 import android.app.Fragment;
-import android.content.Context;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -18,7 +17,6 @@ public class WitchDoctorFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         mediaPlayer = MediaPlayer.create(getActivity(), R.raw.wdoc_win_03);
-       // play();
         return inflater.inflate(R.layout.witch_doctor_fragment_layout, container, false);
     }
 
