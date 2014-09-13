@@ -6,7 +6,53 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a9dd359-7498-45c7-b08a-35e396cba290" name="Default" comment="" />
+    <list default="true" id="8a9dd359-7498-45c7-b08a-35e396cba290" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-mdpi/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/raw/keep_rival_09.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/kotlpic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/build/intermediates/model_data.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/treant_vert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/raw/venm_rare_01.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/venomancer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/raw/wdoc_win_03.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/raw/wdoc_win_04.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/drawable-hdpi/witch_doctor_vert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/androidTest/java/com/mkph/mateusz/dotagameapp/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/java/com/mkph/mateusz/dotagameapp/Fragments/BaseHeroFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/DotaGameApp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/java/com/mkph/mateusz/dotagameapp/HomeScreenActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/java/com/mkph/mateusz/dotagameapp/Fragments/VenomancerFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/java/com/mkph/mateusz/dotagameapp/Fragments/WitchDoctorFragment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/layout/activity_home_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/layout/base_hero_fragment_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/build/intermediates/dex-cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/menu/home_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/layout/venomancer_fragment_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dotaApp/app/src/main/res/layout/witch_doctor_fragment_layout.xml" />
+    </list>
     <ignored path="gradle.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
