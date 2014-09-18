@@ -19,6 +19,7 @@ public class HomeScreenActivity extends FragmentActivity {
     private MediaPlayer mediaPlayer;
     private ListView mDrawerList;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,20 +37,23 @@ public class HomeScreenActivity extends FragmentActivity {
             super(fm);
         }
 
+
         @Override
         public Fragment getItem(int position) {
             BaseHeroFragment frag = BaseHeroFragment.create(position);
-           return frag;
+            return frag;
         }
 
         @Override
         public int getCount() {
-            return 10;
+            return 108;
         }
 
         @Override
         public CharSequence getPageTitle(int position) {
-            return "Title "+(position +1);
+            BaseHeroFragment frag = BaseHeroFragment.create(position);
+            String heroName = frag.getHeroName(position);
+            return heroName;
         }
 
     }
